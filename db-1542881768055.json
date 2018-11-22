@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Divakar",
+      "lastName": "Mer",
+      "email": "aashumer@gmail.com",
+      "age": 22,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Rohit",
+      "lastName": "Keshav",
+      "email": "rkeshav@gmail.com",
+      "age": 24,
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "firstName": "Shanil",
+      "lastName": "Topiwala",
+      "email": "stopiwal@gmail.com",
+      "age": 26,
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Facebook",
+      "description": "Facebook, Inc. is an American online social media and social networking service company based in Menlo Park, California. Its website was launched on February 4, 2004, by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes"
+    },
+    {
+      "id": "2",
+      "name": "Twitter",
+      "description": "Twitter, Inc. is an American online news and social networking service on which users post and interact with messages known as tweets. Tweets were originally restricted to 140 characters, but on November 7, 2017, this limit was doubled for all languages except Chinese, Japanese, and Korean"
+    },
+    {
+      "id": "3",
+      "name": "Youtube",
+      "description": "YouTube, LLC is an American video-sharing website headquartered in San Bruno, California. Three former PayPal employees—Chad Hurley, Steve Chen, and Jawed Karim—created the service in February 2005. Google bought the site in November 2006 for US$1.65 billion; YouTube now operates as one of Google's subsidiaries"
+    }
+  ]
+}
